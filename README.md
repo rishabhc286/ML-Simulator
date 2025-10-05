@@ -10,6 +10,8 @@ Perfect for students, educators, and anyone exploring machine learning concepts 
 - Simple, clean UI for experimenting with models
 - Visualization of datasets & results
 - Easy to extend with new models
+- 🧩 Added K-Nearest Neighbors (KNN) Simulator with adjustable k and visualization
+
 
 ---
 
